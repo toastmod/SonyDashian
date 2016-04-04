@@ -12,7 +12,7 @@ A chroot and (eventually flashable OS) for Sony Dash.
 - Complete Framebuffer takeover, as in killing all Chumby processes using the Framebuffer
 - A UI makeover
 
-# How to install
+# How to run the thing
 1. Prepare an EXT3 format USB flash drive (I'll find a Windows compatible formatter for EXT3 soon, I used GParted in Ubuntu.)
 2. Download the chroot zip file from this repo
 3. Unpack the chroot folder and the start.sh from the zip onto the USB drive
