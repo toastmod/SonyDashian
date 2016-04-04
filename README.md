@@ -4,7 +4,8 @@ A chroot and (eventually flashable OS) for Sony Dash.
 # What is supported currently?
 - Networking
 - Debian Binaries
-ToDo:
+
+# Support ToDo's
 - XOrg
 - Sound
 - Touchscreen
