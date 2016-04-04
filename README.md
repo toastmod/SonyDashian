@@ -19,4 +19,4 @@ A chroot and (eventually flashable OS) for Sony Dash.
 4. Plug in the USB into your Dash device (be patient before step 6, the Dash can take a few seconds to mount the USB drive)
 5. Open an SSH session to your Dash
 6. Run the command: sh /mnt/usb/start.sh
-7. Congrats my dude your in debian
+7. Congrats my dude your in Debian
