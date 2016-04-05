@@ -15,6 +15,8 @@ A chroot and (eventually flashable OS) for Sony Dash.
 # How to run the thing
 - Use a Linux Virtual Machine if you are on Windows, since there isnt any easy way to open an EXT3 filesystem on Windows. 
 - I recommend VMWare Player.
+
+
 1. Prepare an EXT3 format USB flash drive (I used GParted in Ubuntu.)
 2. Download the chroot.tar.gz from https://goo.gl/Q5CQRi and start.sh files from this repo
 3. Unpack the chroot folder and the start.sh onto the root of the USB drive
