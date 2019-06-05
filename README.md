@@ -1,6 +1,12 @@
 # SonyDashian
 A chroot and (eventually flashable OS) for Sony Dash.
 
+# ~ Looking back 2 years later ~
+I  don't use my Dash anymore and I kinda gave up on this project since some actual experienced chumby devs took it up.
+However I still have my Dash and I'm thinking of coming back to this.
+I'm one of those people who will relentlessly tinker with anything, so it might be fun idk.
+IF YOU CAN HEAR ME TELL ME IF I SHOULD LOL
+
 # What is supported currently?
 - Networking
 - Debian Binaries
@@ -25,3 +31,4 @@ A chroot and (eventually flashable OS) for Sony Dash.
 6. Run the command: sh /mnt/usb/start.sh
 7. Congrats my dude your in Debian
 ( ͡° ͜ʖ ͡°)
+
