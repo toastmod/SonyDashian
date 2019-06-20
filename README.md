@@ -1,5 +1,5 @@
 # SonyDashian
-A chroot and (eventually flashable OS) for Sony Dash.
+A chroot for Sony Dash.
 
 # ~ Looking back 2 years later ~
 I  don't use my Dash anymore and I kinda gave up on this project since some actual experienced chumby devs took it up.
